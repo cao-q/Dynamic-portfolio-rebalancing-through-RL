@@ -36,7 +36,7 @@ python3 train_wo_predict.py \
     --path=data,rl,portfolio1,lagged \
     --load
 ```
-3. train lstm model. To run for all tickers
+3. train LSTM model. To run for all tickers
 ```bash
 python3 lstm_pred.py --stock=WMT --stock_file=portfolio1
 ```
@@ -81,7 +81,7 @@ python3 train_wo_predict.py \
     --load \
     --full_swing
 ```
-3. train lstm model. To run for all tickers
+3. train LSTM model. To run for all tickers
 ```bash
 python3 lstm_pred.py --stock=WMT --stock_file=portfolio1
 ```
@@ -113,4 +113,4 @@ python3 train_wo_predict.py \
 Use rl_visual.py. Change arguments in py script as necessary
 
 ## Environment
-Code tested in python 3.7.3 64-bit, in ubuntu 18.0.4
+Code tested in Python 3.7.3 64-bit, in Ubuntu 18.0.4
