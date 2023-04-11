@@ -2,7 +2,7 @@
 
 ## by Qing Yang Eddy Lim, Qi Cao, Chai Quek
 
-> These are the source codes for our paper titled "Dynamic Portfolio Rebalancing through Reinforcement Learning" at Neural Computing and Application in 2022.
+> These are the source codes for our paper titled "Dynamic Portfolio Rebalancing through Reinforcement Learning" published at Neural Computing and Application in 2022.
 >
 > Welcome to cite our paper. 
 >
